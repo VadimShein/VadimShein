@@ -17,7 +17,7 @@
 11. [Приложение для хранения заявок](https://github.com/VadimShein/job4j_tracker) (Java SE, PosgreSQL, Hibernate, Liquibase, JUnit)
 
 
-## Используемые технологии
+## Используемые технологии:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
