@@ -4,13 +4,13 @@
 - Дополнительно владею навыками разработки микроэлектроники, написания научных статей и участия в конференциях. 
 
 ## Мои Java проекты:
-1. [Сервис создания сокращенных ссылок](https://github.com/VadimShein/job4j_url_shortcut) (Spring Boot (Data, Security), REST API, PostgreSQL, Docker, K8s)
+1. [Сервис создания сокращенных ссылок](https://github.com/VadimShein/job4j_url_shortcut) (Spring (Boot, Data, Security), REST API, PostgreSQL, Docker, K8s)
 2. [Приложение чат](https://github.com/VadimShein/job4j_chat) (Spring Boot (Data, Security, JWT), REST API, PostgreSQL) 
-3. [Сервис управления паспортами](https://github.com/VadimShein/job4j_passport) (Spring Boot, Spring Data, REST API, PostgreSQL, Kafka) 
-4. [Сервис регистрации авто нарушений](https://github.com/VadimShein/job4j_car_accident) (Spring, JSP, JavaScript, PostgreSQL)
-5. [Веб форум](https://github.com/VadimShein/job4j_forum) (Spring Boot, JSP, Bootstrap, PostgreSQL, Liquibase, JUnit, Mockito, Heroku)
-6. [Площадка для продажи авто](https://github.com/VadimShein/job4j_cars) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
-7. [Сервис поиска работы](https://github.com/VadimShein/job4j_dreamjob) (Java EE, Servlets, JSP, JSTL, PostgreSQL, JUnit)  
+3. [Сервис управления паспортами](https://github.com/VadimShein/job4j_passport) (Spring (Boot, Data, Security) REST API, PostgreSQL, Kafka) 
+4. [Сервис регистрации авто нарушений](https://github.com/VadimShein/job4j_car_accident) (Spring (MVC, Data, Security), JSP, JavaScript, PostgreSQL, Tomcat)
+5. [Веб форум](https://github.com/VadimShein/job4j_forum) (Spring (Boot, Data, Security), JSP, Bootstrap, PostgreSQL, Liquibase, JUnit, Mockito, Heroku)
+6. [Площадка для продажи авто](https://github.com/VadimShein/job4j_cars) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate, Tomcat)
+7. [Сервис поиска работы](https://github.com/VadimShein/job4j_dreamjob) (Java EE, Servlets, JSP, JSTL, PostgreSQL, JDBC, JUnit, Mockito)  
 8. [Приложение список дел](https://github.com/VadimShein/job4j_todo) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
 9. [Сервис бронирования билетов](https://github.com/VadimShein/job4j_cinema) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
 10. [Асинхронная очередь](https://github.com/VadimShein/job4j_pooh) (Java SE, Concurrency, Sockets, JUnit)
