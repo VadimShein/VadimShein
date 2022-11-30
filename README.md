@@ -5,7 +5,7 @@
 
 ## Мои Java проекты:
 1. [Сервис создания сокращенных ссылок](https://github.com/VadimShein/job4j_url_shortcut) (Spring (Boot, Data, Security), REST API, PostgreSQL, Docker, K8s)
-2. [Приложение чат](https://github.com/VadimShein/job4j_chat) (Spring Boot (Data, Security, JWT), REST API, PostgreSQL) 
+2. [Приложение чат](https://github.com/VadimShein/job4j_chat) (Spring (Boot, Data, Security, JWT), REST API, PostgreSQL) 
 3. [Сервис управления паспортами](https://github.com/VadimShein/job4j_passport) (Spring (Boot, Data, Security) REST API, PostgreSQL, Kafka) 
 4. [Сервис регистрации авто нарушений](https://github.com/VadimShein/job4j_car_accident) (Spring (MVC, Data, Security), JSP, JavaScript, PostgreSQL, Tomcat)
 5. [Веб форум](https://github.com/VadimShein/job4j_forum) (Spring (Boot, Data, Security), JSP, Bootstrap, PostgreSQL, Liquibase, JUnit, Mockito, Heroku)
