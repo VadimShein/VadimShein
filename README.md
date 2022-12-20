@@ -7,12 +7,13 @@
 1. [Сервис создания сокращенных ссылок](https://github.com/VadimShein/job4j_url_shortcut) (Spring (Boot, Data, Security), REST API, PostgreSQL, Docker, K8s)
 2. [Приложение чат](https://github.com/VadimShein/job4j_chat) (Spring (Boot, Data, Security, JWT), REST API, PostgreSQL) 
 3. [Сервис регистрации авто нарушений](https://github.com/VadimShein/job4j_car_accident) (Spring (MVC, Data, Security), JSP, JavaScript, PostgreSQL, Tomcat)
-4. [Площадка для продажи авто](https://github.com/VadimShein/job4j_cars) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate, Tomcat)
-5. [Сервис поиска работы](https://github.com/VadimShein/job4j_dreamjob) (Java EE, Servlets, JSP, JSTL, PostgreSQL, JDBC, JUnit, Mockito)  
-6. [Приложение список дел](https://github.com/VadimShein/job4j_todo) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
-7. [Сервис бронирования билетов](https://github.com/VadimShein/job4j_cinema) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
-8. [Асинхронная очередь](https://github.com/VadimShein/job4j_pooh) (Java SE, Concurrency, Sockets, JUnit)
-9. [Приложение для хранения заявок](https://github.com/VadimShein/job4j_tracker) (Java SE, PosgreSQL, Hibernate, Liquibase, JUnit)
+4. [Сервис управления паспортами](https://github.com/VadimShein/job4j_passport) (Spring (Boot, Data), REST API, PostgreSQL, Kafka) 
+5. [Площадка для продажи авто](https://github.com/VadimShein/job4j_cars) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate, Tomcat)
+6. [Сервис поиска работы](https://github.com/VadimShein/job4j_dreamjob) (Java EE, Servlets, JSP, JSTL, PostgreSQL, JDBC, JUnit, Mockito)  
+7. [Приложение список дел](https://github.com/VadimShein/job4j_todo) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
+8. [Сервис бронирования билетов](https://github.com/VadimShein/job4j_cinema) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
+9. [Асинхронная очередь](https://github.com/VadimShein/job4j_pooh) (Java SE, Concurrency, Sockets, JUnit)
+10. [Приложение для хранения заявок](https://github.com/VadimShein/job4j_tracker) (Java SE, PosgreSQL, Hibernate, Liquibase, JUnit)
 
 
 ## Используемые технологии:
