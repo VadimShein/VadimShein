@@ -38,8 +38,8 @@
   <img src="https://www.liquibase.com/wp-content/uploads/2020/05/Liquibase_logo_vertical_RGB.svg" title="liqubase" alt="liquibase" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="kafka" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" title="junit" alt="junit" width="40" height="40"/>
-  <img src="[https://avatars.githubusercontent.com/u/874086?s=280&v=4](https://camo.githubusercontent.com/5f804907572d285e41abd6d651de42446f1a1880dcbe58a139f03aefc48213ca/68747470733a2f2f666c7977617964622e6f72672f6173736574732f6c6f676f2f666c797761792d6c6f676f2e706e67)" title="flyway" alt="flyway" width="40" height="40"/>
-  <img src="[https://avatars.githubusercontent.com/u/874086?s=280&v=4](https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png)" title="swagger" alt="swagger" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/5f804907572d285e41abd6d651de42446f1a1880dcbe58a139f03aefc48213ca/68747470733a2f2f666c7977617964622e6f72672f6173736574732f6c6f676f2f666c797761792d6c6f676f2e706e67" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 
