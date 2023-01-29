@@ -4,16 +4,17 @@
 - Дополнительно владею навыками разработки микроэлектроники, написания научных статей и участия в конференциях. 
 
 ## Мои Java проекты:
-1. [Сервис создания сокращенных ссылок](https://github.com/VadimShein/job4j_url_shortcut) (Spring (Boot, Data, Security), REST API, PostgreSQL, Docker, K8s)
-2. [Приложение чат](https://github.com/VadimShein/job4j_chat) (Spring (Boot, Data, Security, JWT), REST API, PostgreSQL) 
-3. [Сервис регистрации авто нарушений](https://github.com/VadimShein/job4j_car_accident) (Spring (MVC, Data, Security), JSP, JavaScript, PostgreSQL, Tomcat)
-4. [Сервис управления паспортами](https://github.com/VadimShein/job4j_passport) (Spring (Boot, Data), REST API, PostgreSQL, Kafka) 
-5. [Площадка для продажи авто](https://github.com/VadimShein/job4j_cars) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate, Tomcat)
-6. [Сервис поиска работы](https://github.com/VadimShein/job4j_dreamjob) (Java EE, Servlets, JSP, JSTL, PostgreSQL, JDBC, JUnit, Mockito)  
-7. [Приложение список дел](https://github.com/VadimShein/job4j_todo) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
-8. [Сервис бронирования билетов](https://github.com/VadimShein/job4j_cinema) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
-9. [Асинхронная очередь](https://github.com/VadimShein/job4j_pooh) (Java SE, Concurrency, Sockets, JUnit)
-10. [Приложение для хранения заявок](https://github.com/VadimShein/job4j_tracker) (Java SE, PosgreSQL, Hibernate, Liquibase, JUnit)
+1. [Сервис онлайн записи](https://github.com/VadimShein/carwash) (Spring (Boot, Data, Security), REST API, PostgreSQL, Flyway, Swagger)
+2. [Сервис создания сокращенных ссылок](https://github.com/VadimShein/job4j_url_shortcut) (Spring (Boot, Data, Security), REST API, PostgreSQL, Docker, K8s)
+3. [Приложение чат](https://github.com/VadimShein/job4j_chat) (Spring (Boot, Data, Security, JWT), REST API, PostgreSQL) 
+4. [Сервис регистрации авто нарушений](https://github.com/VadimShein/job4j_car_accident) (Spring (MVC, Data, Security), JSP, JavaScript, PostgreSQL, Tomcat)
+5. [Сервис управления паспортами](https://github.com/VadimShein/job4j_passport) (Spring (Boot, Data), REST API, PostgreSQL, Kafka) 
+6. [Площадка для продажи авто](https://github.com/VadimShein/job4j_cars) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate, Tomcat)
+7. [Сервис поиска работы](https://github.com/VadimShein/job4j_dreamjob) (Java EE, Servlets, JSP, JSTL, PostgreSQL, JDBC, JUnit, Mockito)  
+8. [Приложение список дел](https://github.com/VadimShein/job4j_todo) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
+9. [Сервис бронирования билетов](https://github.com/VadimShein/job4j_cinema) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
+10. [Асинхронная очередь](https://github.com/VadimShein/job4j_pooh) (Java SE, Concurrency, Sockets, JUnit)
+11. [Приложение для хранения заявок](https://github.com/VadimShein/job4j_tracker) (Java SE, PosgreSQL, Hibernate, Liquibase, JUnit)
 
 
 ## Используемые технологии:
@@ -37,6 +38,8 @@
   <img src="https://www.liquibase.com/wp-content/uploads/2020/05/Liquibase_logo_vertical_RGB.svg" title="liqubase" alt="liquibase" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="kafka" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" title="junit" alt="junit" width="40" height="40"/>
+  <img src="[https://avatars.githubusercontent.com/u/874086?s=280&v=4](https://camo.githubusercontent.com/5f804907572d285e41abd6d651de42446f1a1880dcbe58a139f03aefc48213ca/68747470733a2f2f666c7977617964622e6f72672f6173736574732f6c6f676f2f666c797761792d6c6f676f2e706e67)" title="flyway" alt="flyway" width="40" height="40"/>
+  <img src="[https://avatars.githubusercontent.com/u/874086?s=280&v=4](https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png)" title="swagger" alt="swagger" width="40" height="40"/>
 </div>
 
 
