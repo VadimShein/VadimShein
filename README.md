@@ -12,9 +12,8 @@
 6. [Площадка для продажи авто](https://github.com/VadimShein/job4j_cars) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate, Tomcat)
 7. [Сервис поиска работы](https://github.com/VadimShein/job4j_dreamjob) (Java EE, Servlets, JSP, JSTL, PostgreSQL, JDBC, JUnit, Mockito)  
 8. [Приложение список дел](https://github.com/VadimShein/job4j_todo) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
-9. [Сервис бронирования билетов](https://github.com/VadimShein/job4j_cinema) (Java EE, Servlets, JSP, JavaScript, PostgreSQL, Hibernate)
-10. [Асинхронная очередь](https://github.com/VadimShein/job4j_pooh) (Java SE, Concurrency, Sockets, JUnit)
-11. [Приложение для хранения заявок](https://github.com/VadimShein/job4j_tracker) (Java SE, PosgreSQL, Hibernate, Liquibase, JUnit)
+9. [Асинхронная очередь](https://github.com/VadimShein/job4j_pooh) (Java SE, Concurrency, Sockets, JUnit)
+10. [Приложение для хранения заявок](https://github.com/VadimShein/job4j_tracker) (Java SE, PosgreSQL, Hibernate, Liquibase, JUnit)
 
 
 ## Используемые технологии:
